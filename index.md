@@ -1,4 +1,4 @@
-# Demo podręcznika do ekonomii
+# Index
 
 * [[Wersja polska]]
 * [[English version]]
