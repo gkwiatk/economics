@@ -1,4 +1,4 @@
-# index
+# Index
 
 * [[Wersja polska]]
 * [[English version]]
