@@ -1,5 +1,6 @@
 ---
 date: 2021-06-26T08:40
+tag: strona
 ---
 
 # Jak być ekonomistą
